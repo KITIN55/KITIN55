@@ -37,8 +37,9 @@ I started my way in programming in 2019, like many with writing games. After rec
 <a href="https://github.com/KITIN55" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KITIN55&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### :fire: My Articles :
-1. ▫️[Первая](https://proglib.io/p/put-v-professiyu-intervyu-s-ios-razrabotchikom-kevinom-renskersom-2021-07-02)
+1. 
+2. 🍏 [Путь в профессию: интервью с iOS-разработчиком Кевином Ренскерсом](https://proglib.io/p/put-v-professiyu-intervyu-s-ios-razrabotchikom-kevinom-renskersom-2021-07-02)
 
-▫️Вторая (https://dtf.ru/u/552746-nikita-boyandin/1253716-a-chto-esli-s-tochki-zreniya-programmista)
+▫️ [А что, если?(с точки зрения программиста)] (https://dtf.ru/u/552746-nikita-boyandin/1253716-a-chto-esli-s-tochki-zreniya-programmista)
 
 ▫️Третья (https://proglib.io/p/razrabotka-igr-na-unity-10-vazhnyh-sovetov-dlya-nachinayushchih-2021-06-17)
