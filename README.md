@@ -7,8 +7,10 @@ ML-engineer
 I started my way in programming in 2019, like many with writing games. After receiving the Unity Junior Game Developer certificate, I also started studying at the Cisco Academy. Unfortunately, after Cisco left Russia, my desire to study cybersecurity subsided a little, and I began to actively explore Python, simultaneously fulfilling freelance orders (parsing, creating telegrams and discord bots). Also during this time (2019-2022) I was the author of posts, articles and courses on proglib. I have been actively developing in the field of machine learning for the last year. I am well versed in python libraries (numpy, pandas, sklearn, matplotlib, etc.). An active participant in hackathons and competitions on kaggle (there are bronze medals) and codeforces.
 
 * 🌍  I'm based in Moscow
+* 😎  I'm learning in Financial University in Moscow on Applied Mathematics and Computer Science
 * ✉️  You can contact me at [nikitaboyandin895@gmail.com](mailto:nikitaboyandin895@gmail.com)
 * 🧠  I'm learning machine learning algorithms
+
 
 ### Skills
 
