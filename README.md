@@ -8,14 +8,7 @@ I started my way in programming in 2019, like many with writing games. After rec
 
 * 🌍  I'm based in Moscow
 * 😎  I'm learning in Financial University in Moscow on Applied Mathematics and Computer Science
-* ✉️  You can contact me at [nikitaboyandin895@gmail.com](mailto:nikitaboyandin895@gmail.com) <div align="center">
-<a href="https://www.kaggle.com/https://www.kaggle.com/nikotin55" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-  
+* ✉️  You can contact me at [nikitaboyandin895@gmail.com](mailto:nikitaboyandin895@gmail.com) 
 * 🧠  I'm learning machine learning algorithms
 
 
